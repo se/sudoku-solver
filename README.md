@@ -94,3 +94,11 @@ go run main.go
 https://twitter.com/Protein_Team/status/1064770753344737280
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr">Şimdi Protein Zamanı 👩‍🍳👨‍🍳<br>🗓️1 Aralık Cumartesi günü🗓️ bir hackathon yapalım ve bu hackathon&#39;da herhangi bir dil sınırı olmasın sadece her gün kullandığımız teknolojiler dışına çıkarak zevk almaya ve yeni şeyler öğrenmeye bakalım. Konu sürpriz ✴️<a href="https://t.co/aGHe2DuN3H">https://t.co/aGHe2DuN3H</a></p>&mdash; Protein Team (@Protein_Team) <a href="https://twitter.com/Protein_Team/status/1064770753344737280?ref_src=twsrc%5Etfw">November 20, 2018</a></blockquote>
+
+Güzel de bir resim;
+
+![](https://pbs.twimg.com/media/DtVSPAcW0AAG7nd.jpg)
+
+https://twitter.com/Protein_Team/status/1068850910946832390
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr">günün TIL ekibi 👍👊 <a href="https://t.co/M7M6ewvN7u">pic.twitter.com/M7M6ewvN7u</a></p>&mdash; Protein Team (@Protein_Team) <a href="https://twitter.com/Protein_Team/status/1068850910946832390?ref_src=twsrc%5Etfw">December 1, 2018</a></blockquote>
