@@ -4,7 +4,7 @@
 
 Resmen ruh çözücü gibi oldu başlığı. Bu yüzden bu tarz şeylere Türkçe isimler vermeyi garip buluyorum 😅
 
-Neyse, her şey @Protein_Team'in mini hackaton'u ile başladı... Ne kadar da güzel hikayeleştirmek 🙂
+Neyse, her şey [@Protein_Team](https://twitter.com/Protein_Team)'in mini hackaton'u ile başladı... Ne kadar da güzel hikayeleştirmek 🙂.
 
 Neyse, kodlar kendini anlatıyor.
 
@@ -88,3 +88,9 @@ Build etmeden direk çalıştırmak istiyorsanız;
 ```
 go run main.go
 ```
+
+İlgili Twitter threadi;
+
+https://twitter.com/Protein_Team/status/1064770753344737280
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="tr" dir="ltr">Şimdi Protein Zamanı 👩‍🍳👨‍🍳<br>🗓️1 Aralık Cumartesi günü🗓️ bir hackathon yapalım ve bu hackathon&#39;da herhangi bir dil sınırı olmasın sadece her gün kullandığımız teknolojiler dışına çıkarak zevk almaya ve yeni şeyler öğrenmeye bakalım. Konu sürpriz ✴️<a href="https://t.co/aGHe2DuN3H">https://t.co/aGHe2DuN3H</a></p>&mdash; Protein Team (@Protein_Team) <a href="https://twitter.com/Protein_Team/status/1064770753344737280?ref_src=twsrc%5Etfw">November 20, 2018</a></blockquote>
